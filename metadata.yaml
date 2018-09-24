@@ -1,0 +1,25 @@
+_repo: Section-Cutting-and-Staining-A-practical-introduction-to-histological-methods-for-students-an__51169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colman, Walter S.
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '46273'
+    url: http://www.gutenberg.org/2009/agents/46273
+description: ''
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Microscopy'
+- GITenberg
+title: "Section Cutting and Staining\r\nA practical introduction to histological methods\
+  \ for students and practitioners"
+url: http://www.gutenberg.org/ebooks/51169
